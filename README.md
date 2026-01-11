@@ -49,7 +49,7 @@
 
 ⚡ Fun fact: **I believe quality is architected early — not tested at the end.**
 
-📦 **25** repositories | ⭐ **400** stars | 👥 **200** followers
+📦 **25+** repositories | ⭐ **400** stars | 👥 **200** followers
 
 <br clear="right"/>
 
