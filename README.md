@@ -13,7 +13,7 @@
 
 <!-- PROFILE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Senior-70a5fd?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/Focus-Testing-70a5fd?style=for-the-badge" alt="focus"/>
   <img src="https://img.shields.io/badge/10+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
   <img src="https://img.shields.io/badge/400-Stars_Earned-70a5fd?style=for-the-badge" alt="stars"/>
   <img src="https://img.shields.io/badge/1.7k-Profile_Views-70a5fd?style=for-the-badge" alt="profile views"/>
