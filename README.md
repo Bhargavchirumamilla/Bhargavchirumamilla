@@ -311,6 +311,37 @@
 ---
 
 
+## 🔥 GitHub Analytics
+
+<h2 align="center">🔥 GitHub Analytics</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <div style="padding:16px; border:1px solid #30363d; border-radius:10px;">
+        ⭐<br/>
+        <b>Active Repositories</b><br/>
+        <sub>Public repos & regular contributions</sub>
+      </div>
+    </td>
+    <td align="center" width="33%">
+      <div style="padding:16px; border:1px solid #30363d; border-radius:10px;">
+        🧑‍💻<br/>
+        <b>Consistent Activity</b><br/>
+        <sub>Steady commits across projects</sub>
+      </div>
+    </td>
+    <td align="center" width="33%">
+      <div style="padding:16px; border:1px solid #30363d; border-radius:10px;">
+        🚀<br/>
+        <b>Quality Focus</b><br/>
+        <sub>Clean code & collaboration</sub>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 
 
 ---
