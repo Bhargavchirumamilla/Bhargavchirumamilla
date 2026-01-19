@@ -313,7 +313,6 @@
 
 ## 🔥 GitHub Analytics
 
-<h2 align="center">🔥 GitHub Analytics</h2>
 
 <table align="center" width="100%">
   <tr>
