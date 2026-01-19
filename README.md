@@ -313,11 +313,13 @@
 ## 🔥 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Bhargavchirumamilla&theme=dark&hide_border=true"
-    alt="GitHub Streak"
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavchirumamilla&theme=dark&hide_border=true"
+    alt="GitHub Streak Stats"
   />
 </p>
+
+
 
 ---
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Profile Summary
