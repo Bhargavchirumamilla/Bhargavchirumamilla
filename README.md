@@ -33,11 +33,11 @@
 
 
 
-🏢 **Senior Architect/Engineering Manager | Expert in Test Automation & Quality Engineering @ Zee Entertainment | EX-SAP, Philips, Lifestyle | Championing Quality, Automation, Innovation & Scalable Solutions**
+🏢 **Senior Architect/Engineering Manager | Expert in Test Automation & Quality Engineering @ Sony | EX-ZEE, SAP, Philips, Lifestyle | Championing Quality, Automation, Innovation & Scalable Solutions**
 
 📍 **Bengaluru**
 
-💼 **13+ YOE**
+💼 **14+ YOE**
 
 🔭 Currently working on **[AI Agents, LLM, AI-ML]**
 
